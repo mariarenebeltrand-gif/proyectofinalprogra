@@ -2,6 +2,14 @@
 
 Este proyecto web está dedicado a mostrar la riqueza cultural, geográfica e histórica de **Guatemala**, destacando aspectos como su cultura maya, tradiciones, vestimenta, idiomas originarios, y más.
 
+## 📁 Objetivos SMART del proyecto
+
+**Específicos:** desarrollar un sitio web que muestre de manera clara y atractiva las principales características de Guatemala, con el fin de que cualquier persona pueda descubrir la magia de nuestro país y conocer la historia detrás de cada lugar y tradición.
+**Medibles:** diseñar y desarrollar cinco secciones interactivas y dinámicas. Cada sección presentará datos que permitan a los usuarios no solo informarse, sino vivir una experiencia única sobre la cultura de Guatemala.
+**Alcanzable:** utilizar HTML y CSS para desarrollar el sitio web, demostrando habilidades básicas en la estructura y el diseño web, lo que permitirá crear una página funcional y visualmente atractiva.
+**Relevante:** promover y fortalecer la identidad guatemalteca mediante un diseño digital cautivador. Además, impulsar el turismo ofreciendo información clara y visualmente impactante, complementada con fotografías que generen interés y valoren los destinos y el patrimonio cultural de Guatemala. 
+Temporal: finalizar el proyecto en un plazo de 2 semanas
+
 ## 📁 Estructura del Proyecto
 
 El sitio está compuesto por varias páginas HTML interconectadas a través de un menú de navegación común. Estas son:
@@ -17,7 +25,13 @@ Profundiza en los aspectos culturales más importantes:
 - **Ferias patronales** y su importancia religiosa y social.
 - **Arte popular y música folclórica**, destacando la marimba y la elaboración artesanal.
 
-### 3. [`DatosInteres.html`](DatosInteres.html)
+### 3. [`Gastronomia.html`](Gastronomia.html)
+Explora la gastronomía guatemalteca, siendo un reflejo vibrante de su rica herencia, donde cada plato cuenta una historia de sabores auténticos. E invita a visitar un mercado guatemalteco que es una explosión de colores, olores y sonidos.
+
+### 4. [`Lugares.html`](Lugares.html)
+Muestras una aventura en Guatemala, un país con una riqueza cultural y natural inigualable, ofreciento a los visitantes una diversidad de experiencias que van desde la historia colonial hasta la exuberancia de la naturaleza.
+
+### 5. [`DatosInteres.html`](DatosInteres.html)
 Presenta información adicional sobre:
 - **Geografía diversa**: desde playas hasta volcanes y selvas.
 - **Historia nacional**: desde la civilización maya hasta la independencia.
@@ -34,7 +48,7 @@ Presenta información adicional sobre:
 - HTML
 - CSS
 - Recursos multimedia (YouTube, imágenes externas)
-- Diseño responsivo básico (`<meta viewport>`)
+- Diseño responsivo básico 
 
 ## 📌 Créditos
 
